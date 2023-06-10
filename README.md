@@ -5,6 +5,8 @@
 
 Shizuku可以让你的应用程序在非Root设备上通过调用ADB权限直接使用系统API
 
+更多内容详情请浏览：https://shizuku.rikka.app
+
 此列表陈列了一些支持使用Shizuku功能的应用程序
 
 --------------------
