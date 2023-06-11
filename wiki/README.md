@@ -9,8 +9,8 @@ Shizuku使用教程（从小白到小白）
 ## 使用教程
 
 - [准备工作](#准备工作)
-  - [MIUI小米.红米](#MIUI小米.红米)
-  - [ColorOS一加.OPPO](#ColorOS一加.OPPO)
+  - [MIUI小米.红米](#MIUI小米红米)
+  - [ColorOS一加.OPPO](#ColorOS一加OPPO)
   - [Huawei华为](#Huawei华为)
 - [开发库](#开发库)
   - [内核](#内核)
@@ -20,7 +20,7 @@ Shizuku使用教程（从小白到小白）
 ## 准备工作
 
 
-### MIUI小米.红米
+### MIUI小米红米
 1.设置-我的设备-全部参数-找到“miui版本”并连续点击五次
 [![miui-device]](https://www.coolapk.com/feed/45300089)
 
@@ -28,7 +28,7 @@ Shizuku使用教程（从小白到小白）
 [![miui-adb-turn-on]](https://www.coolapk.com/feed/45300089)
 找到“USB 调试”,“USB 安装”,“USB 调试（安全设置）”,“停用 adb 授权超时功能”选项，将它们一起打开
 
-### ColorOS一加.OPPO
+### ColorOS一加OPPO
 1.设置-关于本机-找到“版本号”并连续点击几次
 [![coloros-device]](https://www.coolapk.com/feed/46509870)
 
