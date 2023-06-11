@@ -4,4 +4,4 @@
 
 [![shizuku-logo]](https://shizuku.rikka.app/)
 
-[shizuku-logo]:https://shizuku.rikka.app/logo.png "shizuku-logo"
+[shizuku-logo]:https://raw.githubusercontent.com/xiaoyangdkj/shizuku-applications-supported-list/main/image/Shizuku-logo.png "shizuku-logo"
