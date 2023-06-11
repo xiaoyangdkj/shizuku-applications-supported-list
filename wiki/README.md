@@ -23,6 +23,7 @@ Shizuku使用教程（从小白到小白）
 ### MIUI小米.红米
 1.设置-我的设备-全部参数-找到“miui版本”并连续点击五次
 [![miui-device]](https://www.coolapk.com/feed/45300089)
+
 2.设置-系统管理-开发者选项
 [![miui-adb-turn-on]](https://www.coolapk.com/feed/45300089)
 找到“USB 调试”,“USB 安装”,“USB 调试（安全设置）”,“停用 adb 授权超时功能”选项，将它们一起打开
@@ -30,6 +31,7 @@ Shizuku使用教程（从小白到小白）
 ### ColorOS一加.OPPO
 1.设置-关于本机-找到“版本号”并连续点击几次
 [![coloros-device]](https://www.coolapk.com/feed/46509870)
+
 2.设置-其他设置-开发者模式
 [![coloros-adb-turn-on]](https://www.coolapk.com/feed/40627917)
 找到“USB 调试”,“禁止权限监控”,“停用 adb 授权超时功能”选项，将它们一起打开
@@ -37,6 +39,7 @@ Shizuku使用教程（从小白到小白）
 ### Huawei华为
 1.设置-关于手机-找到“版本号”并连续点击几次
 [![huawei-device]](https://www.coolapk.com/feed/46509870)
+
 2.设置-其他设置-开发者模式
 [![huawei-adb-turn-on]](https://www.coolapk.com/feed/40627917)
 找到“USB 调试”,“仅充电模式下允许 ADB 调试”选项，将它们一起打开
