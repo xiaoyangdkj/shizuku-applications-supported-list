@@ -71,4 +71,4 @@ Shizuku使用教程（从小白到小白）
 [huawei-adb-turn-on]:/image/huawei-adb-turn-on.jpg "华为设备打开usb调试"
 [shizuku-wireless-debugging-start-example]:/image/shizuku-wireless-debugging-start-example.jpeg "shizuku开始无线调试"
 [miui-wireless-debugging-example]:/image/miui-wireless-debugging-example.jpeg "shizuku开始无线调试"
-miui-wireless-debugging-finish-example]:/image/miui-wireless-debugging-finish-example.jpeg "shizuku开始无线调试"
+[miui-wireless-debugging-finish-example]:/image/miui-wireless-debugging-finish-example.jpeg "shizuku开始无线调试"
