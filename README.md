@@ -13,13 +13,17 @@ Shizuku可以让你的应用程序在非Root设备上通过调用ADB权限直接
 
 
 ## 目录清单
-
+- [使用教程](/wiki/README.md)
 - [应用程序](#应用程序)
   - [系统管理](#系统管理)
 - [开发库](#开发库)
   - [内核](#内核)
 - [注释](#注释)
 --------------------
+
+## 使用教程
+[详细请看这里](/wiki/README.md)
+
 
 ## 应用程序
 
@@ -48,4 +52,4 @@ Shizuku可以让你的应用程序在非Root设备上通过调用ADB权限直接
 
 - 💰 - 包含内购服务的应用
 
-[shizuku-logo]:https://raw.githubusercontent.com/xiaoyangdkj/shizuku-applications-supported-list/main/image/Shizuku-logo.png "shizuku-logo"
+[shizuku-logo]:/image/Shizuku-logo.png "shizuku-logo"
