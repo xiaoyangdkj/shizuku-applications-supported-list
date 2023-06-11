@@ -12,8 +12,10 @@ Shizuku使用教程（从小白到小白）
   - [MIUI小米.红米](#MIUI小米红米)
   - [ColorOS一加.OPPO](#ColorOS一加OPPO)
   - [Huawei华为](#Huawei华为)
-- [开发库](#开发库)
-  - [内核](#内核)
+- [启动Shizuku](#启动Shizuku)
+  - [通过 root 启动](#通过root启动)
+  - [通过无线调试启动](#通过无线调试启动)
+  - [通过连接电脑启动](#通过连接电脑启动)
 - [注释](#注释)
 --------------------
 
@@ -44,6 +46,22 @@ Shizuku使用教程（从小白到小白）
 [![huawei-adb-turn-on]](https://www.coolapk.com/feed/40627917)
 找到“USB 调试”,“仅充电模式下允许 ADB 调试”选项，将它们一起打开
 
+## 启动Shizuku
+
+
+### 通过root启动
+在Shizuku内“启动”-授权
+
+### 通过无线调试启动
+在Shizuku内“启动无线调试”
+[![shizuku-wireless-debugging-start-example]](https://www.coolapk.com/feed/45300089)
+
+回到“开发者选项”-查找“无线调试”并开始配对
+[![miui-wireless-debugging-example]](https://www.coolapk.com/feed/45300089)
+
+在下滑通知栏中输入配对码，完成配对启动
+[![miui-wireless-debugging-finish-example]](https://www.coolapk.com/feed/45300089)
+
 [shizuku-logo]:/image/Shizuku-logo.png "shizuku-logo"
 [miui-device]:/image/miui-device.jpg "miui打开开发者选项"
 [miui-adb-turn-on]:/image/miui-adb-turn-on.jpg "miui打开usb调试"
@@ -51,3 +69,6 @@ Shizuku使用教程（从小白到小白）
 [coloros-adb-turn-on]:/image/coloros-adb-turn-on.jpg "coloros打开usb调试"
 [huawei-device]:/image/huawei-device.jpg "华为设备打开开发者模式"
 [huawei-adb-turn-on]:/image/huawei-adb-turn-on.jpg "华为设备打开usb调试"
+[shizuku-wireless-debugging-start-example]:/image/shizuku-wireless-debugging-start-example.jpeg "shizuku开始无线调试"
+[miui-wireless-debugging-example]:/image/miui-wireless-debugging-example.jpeg "shizuku开始无线调试"
+miui-wireless-debugging-finish-example]:/image/miui-wireless-debugging-finish-example.jpeg "shizuku开始无线调试"
