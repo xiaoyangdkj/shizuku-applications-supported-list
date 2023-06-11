@@ -45,9 +45,9 @@ Shizuku使用教程（从小白到小白）
 找到“USB 调试”,“仅充电模式下允许 ADB 调试”选项，将它们一起打开
 
 [shizuku-logo]:/image/Shizuku-logo.png "shizuku-logo"
-[miui-device]:image/miui-device.jpg "miui打开开发者选项"
+[miui-device]:/image/miui-device.jpg "miui打开开发者选项"
 [miui-adb-turn-on]:/image/miui-adb-turn-on.jpg "miui打开usb调试"
-[coloros-device]:image/coloros-device.jpeg "coloros打开开发者模式"
+[coloros-device]:/image/coloros-device.jpeg "coloros打开开发者模式"
 [coloros-adb-turn-on]:/image/coloros-adb-turn-on.jpg "coloros打开usb调试"
-[huawei-device]:image/huawei-device.jpg "华为设备打开开发者模式"
+[huawei-device]:/image/huawei-device.jpg "华为设备打开开发者模式"
 [huawei-adb-turn-on]:/image/huawei-adb-turn-on.jpg "华为设备打开usb调试"
