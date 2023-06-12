@@ -36,7 +36,7 @@ Shizuku可以让你的应用程序在非Root设备上通过调用ADB权限直接
 * [App Ops](https://www.coolapk.com/apk/rikka.appops) 💰 -  借助 App Ops 来设置应用程序的（部分）控制权限（包括摇一摇广告需要调用的传感器权限）
 * [Tap,Tap敲击,敲击](https://github.com/KieronQuinn/TapTap) - 通过你对手机背面的双击、三次敲击动作来自动执行你在TapTap应用程序设置的操作（支持Android7到Android12） 
 * [MT Manager-MT管理器](https://mt2.cn/download) 💰 - 内置终端模，支持调用Shizuku权限来对xapk、apks、apk应用程序进行安装、降级操作的文件管理器
-* [Swift Backup-Swift应用数据备份器](https://mt2.cn/download) 💰 - 支持免root备份应用数据、短信、通话记录、壁纸的备份管理器
+* [Swift Backup-Swift应用数据备份器](https://play.google.com/store/apps/details?id=org.wiftapp.wiftbackage) 💰 - 支持免root备份应用数据、短信、通话记录、壁纸的备份管理器
 * [WiFiList-查看WiFi密码](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) 💰💎 - 无需root，在设备上查看你连接过的WiFi密码（仅支持Android11及以上）
 
 --------------------
